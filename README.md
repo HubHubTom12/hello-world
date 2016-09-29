@@ -1,3 +1,5 @@
 # hello-world
+
 Saying Hi to everything
-Hi to you too
+
+Tom here, University of Worcester Student, 3rd Year Computing Student..
